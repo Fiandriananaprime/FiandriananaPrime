@@ -12,4 +12,6 @@
 🎓 HEI-StdHub
 
 ## Stats GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=FiandriananaPrime&show_icons=true)
+## Activité GitHub
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FiandriananaPrime&theme=github-dark)](https://github.com/FiandriananaPrime)
