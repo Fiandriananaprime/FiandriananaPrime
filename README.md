@@ -1,16 +1,15 @@
 ## Hi there 👋
+# Salut 👋
 
-<!--
-**Fiandriananaprime/FiandriananaPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant développeur 💻
 
-Here are some ideas to get you started:
+## Technologies
+- Java
+- Spring Boot
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projet principal
+🎓 HEI-StdHub
+
+## Stats GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=FiandriananaPrime&show_icons=true)
